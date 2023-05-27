@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Jacob 👋
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${jacbro2021}.${jacbro2021})
+
+## 👤 About Me
+
+I am a student at the University of North Carolina at Chapel Hill and I expect to graduate in the spring of 2025. I am studying Computer Science and have a passion for programming and physics. Most of the development I have done so far is mobile development (in swift and .NET MAUI) and also a bit of web development (NodeJS and Django).
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jacbro2021&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!--
 **jacbro2021/jacbro2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
