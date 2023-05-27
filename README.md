@@ -2,6 +2,9 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjacbro2021%2Fjacbro2021&label=Visitors&labelColor=%23d9e3f0&countColor=%232ccce4)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 👤 About Me
 
 I am a student at the University of North Carolina at Chapel Hill and I expect to graduate in the spring of 2025. I am studying Computer Science and have a passion for programming and physics. Most of the development I have done so far is mobile development (in swift and .NET MAUI) and also a bit of web development (NodeJS and Django).
