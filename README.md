@@ -1,6 +1,6 @@
 ### Hi there, I'm Jacob 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${jacbro2021}.${jacbro2021})
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjacbro2021%2Fjacbro2021&label=Visitors&labelColor=%23d9e3f0&countColor=%232ccce4)
 
 ## 👤 About Me
 
