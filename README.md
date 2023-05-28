@@ -22,10 +22,6 @@ and interesting projects.
   
 </div>
 
-<div align = "center">
-  <img src = "https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjacbro2021%2Fjacbro2021&label=Visitors&countColor=%23f47373"/>
-</div>
-
 ## Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -34,12 +30,18 @@ and interesting projects.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
+<details>
 <p align = "center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jacbro2021&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
-
+  
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+</details>
+
+<div align = "center">
+  <img src = "https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjacbro2021%2Fjacbro2021&label=Visitors&countColor=%23f47373"/>
+</div>
 
 <!--
 **jacbro2021/jacbro2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
