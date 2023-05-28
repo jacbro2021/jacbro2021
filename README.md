@@ -13,7 +13,7 @@ and interesting projects.
   </a>
   
   <a href = "https://www.linkedin.com/in/jacob-brown-6baa0421b/">
-    <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src = "https://img.shields.io/badge/-LinkedIn-blue"/>
   </a>
   
   <a href = "https://www.jacobbrown.me">
@@ -25,8 +25,15 @@ and interesting projects.
 <div align = "center">
   <img src = "https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjacbro2021%2Fjacbro2021&label=Visitors&countColor=%23f47373"/>
 </div>
-  
-  
+
+## Languages
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+
 <p align = "center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jacbro2021&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
