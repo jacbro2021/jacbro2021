@@ -1,8 +1,10 @@
 # Hi there, I'm Jacob 👋
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjacbro2021%2Fjacbro2021&label=Visitors&countColor=%23f47373)
-
+  
+<p align = "center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jacbro2021&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+</p>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
