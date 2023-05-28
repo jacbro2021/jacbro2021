@@ -9,7 +9,7 @@
 
 ## 👤 About Me
 
-I am a student at the University of North Carolina at Chapel Hill and I expect to graduate in the spring of 2025. I am studying Computer Science and have a passion for programming and physics. Most of the development I have done so far is mobile development (in swift and .NET MAUI) and also a bit of web development (NodeJS and Django).
+I am a student at the University of North Carolina at Chapel Hill and I expect to graduate in the spring of 2025. I am studying Computer Science and have a passion for programming and physics. Most of the development I have done so far is mobile development (in swift/swiftUI and .NET MAUI) and also a bit of web development (NodeJS and Django).
 
 <!--
 **jacbro2021/jacbro2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
