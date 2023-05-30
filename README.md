@@ -35,12 +35,12 @@ and interesting projects.
 ![Linode](https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=Linode&logoColor=white)
 
 ## 📊 Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jacbro2021&repo=academy-finalproject-instagram)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jacbro2021&repo=academy-finalproject-instagram)](https://github.com/jacbro2021/academy-FinalProject-Instagram)
 
 
 ## 🗂️ Mini-Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jacbro2021&repo=Spotify-Music-Player)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jacbro2021&repo=s23-academy-mp03-unit-converter-jacbro2021)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jacbro2021&repo=Spotify-Music-Player)](https://github.com/jacbro2021/Spotify-Music-Player)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jacbro2021&repo=s23-academy-mp03-unit-converter-jacbro2021)](https://github.com/jacbro2021/s23-academy-mp03-unit-converter-jacbro2021)
 
 ## 📈 Stats
 <p align = "center">
