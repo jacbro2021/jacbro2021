@@ -34,14 +34,18 @@ and interesting projects.
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Linode](https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=Linode&logoColor=white)
 
+## 📊 Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jacbro2021&repo=academy-finalproject-instagram)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## 🗂️ Mini-Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
 <p align = "center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jacbro2021&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
-  
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 </details>
 
 <div align = "center">
