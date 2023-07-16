@@ -43,8 +43,9 @@ and interesting projects. If you would like to reach out to me, please feel free
 
 
 ## 🗂️ Mini-Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jacbro2021&repo=Spotify-Music-Player)](https://github.com/jacbro2021/Spotify-Music-Player)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jacbro2021&repo=s23-academy-mp03-unit-converter-jacbro2021)](https://github.com/jacbro2021/s23-academy-mp03-unit-converter-jacbro2021)
+[![Highwaters Application](https://github-readme-stats.vercel.app/api/pin/?username=jacbro2021&repo=Highwaters)](https://github.com/jacbro2021/s23-academy-mp03-unit-converter-jacbro2021)
+[![Spotify UI Clone](https://github-readme-stats.vercel.app/api/pin/?username=jacbro2021&repo=Spotify-Music-Player)](https://github.com/jacbro2021/Spotify-Music-Player)
+[![Unit Conversion Application](https://github-readme-stats.vercel.app/api/pin/?username=jacbro2021&repo=s23-academy-mp03-unit-converter-jacbro2021)](https://github.com/jacbro2021/s23-academy-mp03-unit-converter-jacbro2021)
 
 <!--
 ## 📈 Stats
