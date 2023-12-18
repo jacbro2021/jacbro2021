@@ -3,7 +3,7 @@
 </div>
 
 I am a student at the University of North Carolina at Chapel Hill and I expect to graduate in the spring of 2025. I am studying Computer Science and have a passion for programming.
-Most of the development I have done so far is mobile development (in swift/swiftUI and .NET MAUI) and also a bit of web development (NodeJS and Django, Fast API and Angular). I am open to collaborating on innovative 
+Most of the development I have done so far is mobile development (in swift/swiftUI and .NET MAUI) as well as some web development (NodeJS and Django, Fast API and Angular) and a bit of systems programming in C. I am open to collaborating on innovative 
 and interesting projects. If you would like to reach out to me, please feel free to do so at any of the social networking sites below.
 
 <div align = "center">
