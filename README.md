@@ -39,7 +39,7 @@ and interesting projects. If you would like to reach out to me, please feel free
 
 ## 📊 Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jacbro2021&repo=academy-finalproject-instagram)](https://github.com/jacbro2021/academy-FinalProject-Instagram)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jacbro2021&repo=csxl-final-project)](https://github.com/jacbro2021/csxl-final-project/tree/stage))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jacbro2021&repo=csxl-final-project)](https://github.com/jacbro2021/csxl-final-project/tree/stage)
 
 
 ## 🗂️ Mini-Projects
