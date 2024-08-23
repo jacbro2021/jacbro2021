@@ -38,10 +38,9 @@ and interesting projects. If you would like to reach out to me, please feel free
 ![Linode](https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=Linode&logoColor=white)
 
 ## 📊 Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jacbro2021&repo=academy-finalproject-instagram)](https://github.com/jacbro2021/academy-FinalProject-Instagram)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jacbro2021&repo=csxl-final-project)](https://github.com/jacbro2021/csxl-final-project/tree/stage)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jacbro2021&repo=smtp-client-server-python)](https://github.com/jacbro2021/smtp-client-server-python/tree/stage)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jacbro2021&repo=smtp-client-server-python)](https://github.com/jacbro2021/smtp-client-server-python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jacbro2021&repo=academy-finalproject-instagram)](https://github.com/jacbro2021/academy-FinalProject-Instagram)
 
 <!--
 ## 📈 Stats
