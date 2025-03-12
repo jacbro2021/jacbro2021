@@ -2,7 +2,7 @@
   <h1>Hi there, I'm Jacob 👋</h1>
 </div>
 
-I am a student at the University of North Carolina at Chapel Hill and I expect to complete my undergraduate degree in the spring of 2025, and will return to UNC to pursue my masters degree in computer science.
+I am a student at the University of North Carolina at Chapel Hill and I expect to complete my undergraduate degree in the spring of 2025, and will return to UNC to pursue my masters degree in computer science in the fall.
 My development experience includes several projects in Swift and SwiftUI, as well as some systems development in C/C++. I am always interested in collaborating on new and interesting projects. If you would like to reach out to me, please feel free to do so at any of the social networking sites below.
 
 <div align = "center">
