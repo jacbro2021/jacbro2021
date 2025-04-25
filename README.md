@@ -21,7 +21,7 @@ My development experience includes several projects in Swift and SwiftUI, as wel
 ## 📊 A Few Notable Projects...
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jacbro2021&repo=SwiftSessionTypes)](https://github.com/jacbro2021/SwiftSessionTypes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jacbro2021&repo=csxl-final-project)](https://github.com/jacbro2021/csxl-final-project/tree/stage)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jacbro2021&repo=Pen-Pal)](https://github.com/jacbro2021/Pen-Pal/tree/stage)
 <!--
 ## 📈 Stats
 <p align = "center">
